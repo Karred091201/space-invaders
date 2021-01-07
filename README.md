@@ -1,3 +1,10 @@
 # space-invaders
-so you need to install pygame in your terminal by typing "pip install pygame" and enjoy
-if you press a key then your ship moves left and d key spaceship moves right and for fire use spacebar
+
+## libraries 
+* pygame (1.9.6)
+
+## controls 
+* we use "a,d" keywords for movement.
+* "a" for moving the spaceship towards leftside.
+* "d" for moving the spaceship towards rightside.
+* "spacebar" for firing bullets.
